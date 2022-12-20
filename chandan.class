@@ -1,0 +1,11 @@
+class chandan
+{
+public static void main(String[] args)
+{
+System.out.println("hi");
+Sytem.Out.println("hello");
+System.out.println("worls");
+}
+}
+
+
